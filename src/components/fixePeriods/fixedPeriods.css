@@ -1,0 +1,20 @@
+.fixed-periods {
+  display: flex;
+}
+.fixed-periods button {
+  width: 100%;
+  background: #f5f5f5;
+  font-size: 14px;
+  padding: 0.4em;
+  margin-bottom: 1rem;
+  margin-right: 0.5rem;
+  margin-left: 0.5rem;
+  border: 2px groove #080964;
+  color: #080964;
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+  cursor: pointer;
+}
